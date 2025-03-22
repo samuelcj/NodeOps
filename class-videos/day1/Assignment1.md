@@ -1,3 +1,8 @@
+### Assignment 1
+**Compiled by Samuel Joseph**
+**(samueljoseph3467@gmail.com),**
+**for the NodeOps Syndicate Training Programme**
+
 # Comparison Report: Ethereum vs. Solana Blockchain Architectures
 
 ## Introduction
